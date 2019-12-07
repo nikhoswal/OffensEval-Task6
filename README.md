@@ -42,4 +42,5 @@ Task B: F1 Score (macro) of 0.62 and Accuracy of 84.72% using Random Forest
 
 Task C: F1 Score (macro) of 0.51 and Accuracy of 69.12 using SVM  
 
-Refer Report.pdf for the detailed information about this study.
+
+*Refer Report.pdf for the detailed information about this study.*
