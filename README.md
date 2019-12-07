@@ -35,6 +35,8 @@ Machine Learning Model: Support Vector Machine, Logistic Regression, Random Fore
 
 Deep Learning Model: LSTM
 
+To run this models, please create a folder 'glove' and place the 200 Dimension ('glove.twitter.27B.200d.txt') twitter embeddings in it.
+
 ## Results
 Task A: F1 Score (macro) of 0.73 and Accuracy of 77.89% using LSTM
 
