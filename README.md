@@ -28,3 +28,15 @@ Finally, in sub-task C we are interested in the target of offenses. Only posts t
 Individual - The target of the offensive post is an individual: a famous person, named individual or an unnamed person interacting in the conversation.
 Group - The target of the offensive post is a group of people considered as a unity due to the same ethnicity, gender or sexual orientation, political affiliation, religious belief, or something else.
 Other - The target of the offensive post does not belong to any of the previous two categories (e.g. an organization, a situation, an event, or an issue).
+
+## Model
+
+Machine Learning Model: Support Vector Machine, Logistic Regression, Random Forest, Naive Bayes
+Deep Learning Model: LSTM
+
+## Results
+Task A: F1 Score (macro) of 0.73 and Accuracy of 77.89% using LSTM
+Task B: F1 Score (macro) of 0.62 and Accuracy of 84.72% using Random Forest
+Task C: F1 Score (macro) of 0.51 and Accuracy of 69.12 using SVM  
+
+Refer Report.pdf for the detailed information about this study.
